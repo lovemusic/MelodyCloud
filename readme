@@ -1,0 +1,5 @@
+Middle Ware Component
+----------------
+
+I want to create a Middle Ware Component for application developers based on Linux kernel, which implements encapsulation of the interfaces of OS, hardware etc. Aimed at making it convenient for developing large portable embedded applications for different hardware platform. 
+
